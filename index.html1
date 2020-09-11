@@ -1,0 +1,197 @@
+<!DOCTYPE>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title> Neymar da Silva Santos Junior </title>
+    <link href="index.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="logo">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEURERH///8AAAD6+voKCgoGBga4uLji4uI3NzdHR0f29vbu7u6/v7/MzMxxcXGysrJjY2OUlJTGxsaKiopPT0/o6OgWFhbV1dXR0dE7OzsdHR16enovLy+Pj49bW1vc3NxsbGydnZ2pqakqKip5eXlCQkKDg4PAdaerAAAFb0lEQVR4nO3d7XaiMBAGYJik4gaoFUX8aLXQ1vu/xE1QLAgJoLad5Mz7a4vZwHMmQLUJer7r8f76AH48JLQ/w4RMiBBXhGDsYUImwvSQxUmEKEmcBaEYZOwVMpEe4mK3fAVced0vojQcYOwRMhGsJ0el4x6ucKWcH/rraBay8BAdt+h0VThs81DcIxRBXEzR+lQ4bOKeMpqEIkgWqH0yK4CZmWgQSuAn/LWgPxxyI1EvZEGyswAoA8VNQpbGCzuAkhgZiFphmBVPf33kQ8Mh0BN1QnGYLG0poSzii/6eoROG9oxRFcM41QhlCafI7xONwL+xwjB+s6mEkpiME7I0WlpznSkDz7oidgvFodjaNEjl5XQVjhKGa8sGqWGYaoTJs3XCfIxQnoZ764Sfo4TBZGPXaSiFS82lRie06m6oor0jktCaPJGQhOhDQhLiDwlJiD8kJCH+kJCE+ENCEuIPCUmIPyQkIf6QkIT4Q0IS4g8JSYg/JCQh/pCQhPhDQhLiDwlJOCLVIs/aJt7Y9lR//fwSbzceeQC/JgQohAoLa9teM7UwWbCJYkGhFk4L/738IVD/Zux7d/CRsbKDZNws5d8Swr+06qM6QA5vVb9RiZqdfihnksO5ebU7DseqcYxRCLXp5Oy8XkMW8LKtQxg0hLCNL40xCmEa1PrwVA9PsKj12yPk8Fk7SnzCJ5g3+lBC2Gb1bWYheI0lE+iE8HqQ/7Eh5LBr7tUk5PDeXGGHTMgbo7Hsg4MXX20zCAGiq8a4hLBa+1c7YKomV9v0wtW+1RiVEN7bvYtJu1+tkHU0xiXsWFXVtT99DTuCS/h9DjG//RgH5gdjhClGYW2QraG9EHCxHCHMp7iFC2gJ0w28DBaGS1hiFgYb8OBqlBbyfcJg4Uw2xizM1XuipjBUCxmHCsWLaoxVyPz09IiChjAq3wcOFCanxiiF6lo6O7+prQnZea3tICHbnd70YhWKy7Las5Cxc02GCOXBxV7VGKUwkaNx1RSqAlZ99NewKiBWId/UPlWphNvvI+wXftUaYxR69cbVKK0dYL9wU3+Cw3ZVZhTwVz9ru1vIy4zcrVXCm4JdeP8H0H8grFXFUWHt8kNCEpKQhCQkIQlJSEISkpCEJCQhCd0STkhIQouFVn5e6rDwvKdh19LzxIsvq4TzfK5S28Q35Zb8uS1cnF75sOk89NqzoC8zm8uX68KuxrcF0Uz2pvBhISEJHxgS3hgSkvDO8PqfvF0Uwkv+PeHGUaG/vkwgclXos/dzGZ0VVjMxXRaeZtM6LTzNQXVbqOYROy5Uc8FdF/pZ5LqwilvCvevCzsVtbgk9UMvbmofgmPBqFbOLQlnGVXOVonvC+tMEHBV66okQjgsbDyBwU+idlu07LZRl3L0tZOZfj90DHuHljzEP3gEm4c+EhCTEHxKSEH9ISEL8ISEJ8YeEJMQfEpIQf0hIQvwhIQnxh4QkxB8SkhB/SEhC/CEhCfGHhCTEHxKSEH9ISEL8ARI2helkY51w2Q3UCaP9Y+co/3zgc4zQD+MHz8L++UA+SiiyN+uE11/yZhayw2xr14nIV+2vmTIJ/TTZ3/3kpl+N9jTUCcNsbtcw7frqN6OQBZFV9wvtbzRaoSyiVdea1vdD9gvlLXFpD7FrjWqf0BeHmTXDlEN6g9AP19aMU/1lxihk4fpoBxEKfQVNQnkqxjsLiBxydqNQEuVARX7jXwFMTD6zUA7UrJg+ehndQ8PhKzMDzUJ5RU3jxRatkcO2ED3APqEsY5Aspo9fEHl31OM0p7nhLjFUWBqzyXH/CrjysX+LQ+MlZrBQGkWYBod1jCjrLA3FEN8woUIygSpsmG6E0OKQ0P64L/wPHdOohjX3dVcAAAAASUVORK5CYII=" alt="logo">
+</div>
+<div id="top">
+    <ul>
+        <b><a href="#" class="black"><li>PSG Oficiální stránka</li></a>
+            <a href="#" class="black"><li>Wiki</li></a>
+            <a href="#" class="white"><li>Home</li></a></b>
+    </ul>
+</div>
+
+<div id="container">
+    <h1 style="font-size: 45px; text-align: center">Neymar</h1>
+
+    <div>
+        <b>Neymar da Silva Santos Júnior</b>, či krátce <b>Neymar</b>,( * 5. února 1992 Mogi das Cruzes, São Paulo, Brazílie) je brazilský fotbalista. Hraje jako útočník ve francouzském ligovém klubu Paris Saint-Germain FC a v brazilském národním týmu. Je považován za jednoho z nejtalentovanějších fotbalistů nejen v Brazílii, ale i ve světě. Vyniká vytříbenou technikou a rychlostí. Účastník mistrovství světa 2014 a 2018.<br>
+
+        Dne 29. prosince 2010 obsadil třetí místo za Andrésem D'Alessandrem a Juanem Sebastiánem Verónem v anketě Fotbalista roku Jižní Ameriky, v roce 2011 a 2012 již tuto anketu ovládl. Za rok 2011 vyhrál cenu FIFA Puskás Award o nejhezčí gól roku. Je známý svým zrychlením, rychlostí, kličkováním, zakončením a technickými schopnostmi. Díky svému stylu hraní je kritiky, médii a fanoušky srovnáván s Lionelem Messim a brazilskou legendou Pelém, který sám označil Neymara za "nejlepšího fotbalistu na světě".
+    </div>
+    <h2>FC Barcelona</h2>
+    <div>
+        V dresu FC Barcelona debutoval 30. července 2013 v přátelském utkání v PGE Areně v Gdaňsku proti domácímu týmu Lechia Gdańsk. Nastoupil 12 minut před koncem řádné hrací doby, střetnutí skončilo remízou 2:2. V La Lize debutoval 18. srpna 2013 v prvním kole proti Levante UD, do zápasu nastoupil v 63. minutě. Barcelona deklasovala soupeře 7:0. První gól vstřelil 21. srpna 2013 v Supercopa de España, kde vyrovnával na konečných 1:1 s Atléticem Madrid. S klubem tuto trofej vyhrál. 24. září 2013 vstřelil svůj první ligový gól (ve svém šestém zápase) proti Realu Valladolid, když v 5. minutě otevíral skóre utkání, které skončilo vítězstvím Barcelony 4:1.<br>
+
+        S Barcelonou postoupil ze základní skupiny H do vyřazovacích bojů Ligy mistrů 2013/14, katalánský tým v ní obsadil první místo. V posledním utkání skupiny 11. prosince 2013 vstřelil hattrick proti skotskému týmu Celtic FC a přispěl tak k drtivému vítězství 6:1. Byl to jeho premiérový hattrick v dresu Barcelony a zároveň se poprvé střelecky prosadil v evropské Lize mistrů. O necelý týden později v 16. kole La Ligy sezóny 2013/14 zařídil dvěma góly výhru 2:1 nad Villarealem, dokázal tak opět střelecky nahradit zraněného klíčového hráče Barcelony Argentince Lionela Messiho.
+    </div>
+    <h3>Paris Saint-Germain FC</h3>
+    <div>3. srpna 2017 byl potvrzen již nějakou dobu avizovaný přestup brazilského útočníka do francouzského klubu Paris Saint-Germain vlastněného bohatými katarskými majiteli. PSG využil vysoké klauzule ve smlouvě hráče, která činila 222 milionů eur (více než 6 miliard Kč k datu). Tento transfer překonal více než dvojnásobně hodnotu do té doby nejdražšího hráče, Francouze Paula Pogby, jenž přestoupil v srpnu 2016 z Juventusu do Manchesteru United za 110 milionů eur.
+
+        V září 2020 byla u něj, stejně jako u dalších dvou hráčů PSG, potvrzena nákaza nemocí Covid-19. Všichni tři hráči pak museli vynechat první dvě kola nadcházející sezony Ligue 1.</div>
+    <table style="color: black" border="2 px">
+        <thead>
+        <tr style="background-color: deepskyblue">
+            <th rowspan="5">1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+            <th>7</th>
+            <th>8</th>
+            <th>9</th>
+            <th>10</th>
+        </tr>
+        </thead>
+        <tr style="background-color: red">
+            <td>11</td>
+            <td>12</td>
+            <td>13</td>
+            <td>14</td>
+            <td>15</td>
+            <td>16</td>
+            <td>17</td>
+            <td>18</td>
+            <td>19</td>
+            <td>20</td>
+        </tr>
+        <tr style="background-color: yellow">
+            <td>21</td>
+            <td>22</td>
+            <td>23</td>
+            <td>24</td>
+            <td>25</td>
+            <td>26</td>
+            <td>27</td>
+            <td>28</td>
+            <td>29</td>
+            <td>30</td>
+        </tr>
+        <tr style="background-color: lawngreen">
+            <td>31</td>
+            <td>32</td>
+            <td>33</td>
+            <td>34</td>
+            <td>35</td>
+            <td>36</td>
+            <td>37</td>
+            <td>38</td>
+            <td>39</td>
+            <td>40</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>42</td>
+            <td>43</td>
+            <td>44</td>
+            <td>45</td>
+            <td>46</td>
+            <td>47</td>
+            <td>48</td>
+            <td>49</td>
+            <td>50</td>
+        </tr>
+        <tr style="background-color: saddlebrown">
+            <td>51</td>
+            <td>52</td>
+            <td>53</td>
+            <td>54</td>
+            <td>55</td>
+            <td>56</td>
+            <td>57</td>
+            <td>58</td>
+            <td>59</td>
+            <td>60</td>
+        </tr>
+        <tr style="background-color: orange">
+            <td>61</td>
+            <td>62</td>
+            <td>63</td>
+            <td>64</td>
+            <td>65</td>
+            <td>66</td>
+            <td>67</td>
+            <td>68</td>
+            <td>69</td>
+            <td>70</td>
+        </tr>
+        <tr style="background-color: indianred">
+            <td>71</td>
+            <td>72</td>
+            <td>73</td>
+            <td>74</td>
+            <td>75</td>
+            <td>76</td>
+            <td>77</td>
+            <td>78</td>
+            <td>79</td>
+            <td>80</td>
+        </tr>
+        <tr style="background-color: deeppink">
+            <td>81</td>
+            <td>82</td>
+            <td>83</td>
+            <td>84</td>
+            <td>85</td>
+            <td>86</td>
+            <td>87</td>
+            <td>88</td>
+            <td>89</td>
+            <td>90</td>
+        </tr>
+        <tfoot style="background-color: green">
+        <tr>
+            <td>91</td>
+            <td>92</td>
+            <td>93</td>
+            <td colspan="2">94</td>
+            <td>95</td>
+            <td>96</td>
+            <td>97</td>
+            <td>98</td>
+            <td>99</td>
+            <td>100</td>
+        <tr></tr>
+        </tfoot>
+
+    </table>
+    <ul>
+        <li>1× nejlepší mladý hráč Campeonato Paulista (2009)</li>
+        <li>2× nejlepší útočník Campeonato Paulista (2010, 2011)</li>
+        <li>2× nejlepší hráč Campeonato Paulista (2010, 2011)</li>
+    </ul>
+</div>
+<div id="form">
+    <hr>
+    <br><br>
+    <form action="#" >
+        Pohlaví:
+        <label>
+            <input type="radio" >
+        </label>Muž &nbsp &nbsp &nbsp
+        <label>
+            <input type="radio" >
+        </label>Žena <br>
+        <br>
+        Name:<label>
+            <input type="text">
+        </label><br><br>
+        E-mail:<label>
+            <input type="text">
+        </label><br><br>
+        Komentář:<textarea name="area" id="" cols="20" rows="5">Komentář</textarea><br><br>
+        <input type="submit" value="Odeslat">
+        <img src="neymar.jpg" alt="neymar.jpg" class="img" style="background-size: cover">
+    </form>
+</div>
+
+</body>
+</html>
